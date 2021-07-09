@@ -28,5 +28,5 @@ subprojects {
 ext {
     lifecycle = "2.0.0"
     androidX = "1.0.0"
-    constraint = "2.0.0-alpha2"
+    constraint = "2.1.0-beta02"
 }
